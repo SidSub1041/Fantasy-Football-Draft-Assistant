@@ -1,0 +1,3 @@
+class footballDraft extends Draft{
+
+}

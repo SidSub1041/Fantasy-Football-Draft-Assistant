@@ -1,3 +1,3 @@
-class footballDraft extends Draft{
+Public class footballDraft extends Draft{
 
 }
